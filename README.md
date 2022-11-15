@@ -1,4 +1,5 @@
-![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/data%20science.jpg)
+![logo](https://user-images.githubusercontent.com/34723720/201947893-fc56cd4e-0b90-4bc8-9ffd-5179af688fd2.png)
+<!-- ![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/data%20science.jpg) -->
 <!-- ![logo](https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif) -->
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
