@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Mahmuud.Nabil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view](https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view?usp=sharing](https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view?usp=sharing)
 
 - ⚡ Fun fact **I Love football**
 
