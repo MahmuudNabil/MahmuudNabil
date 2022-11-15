@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
 
+<img align ="right" alt="Analysis" width =400 src="https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif" >
+
 ![](https://komarev.com/ghpvc/?username=MahmuudNabil&color=yellow&style=for-the-badge)
 
 
@@ -29,5 +31,7 @@
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuudnabil&show_icons=true&locale=en&layout=compact" alt="mahmuudnabil" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuudnabil&" alt="mahmuudnabil" /></p>
 
