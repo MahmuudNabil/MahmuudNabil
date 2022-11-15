@@ -1,8 +1,9 @@
-![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/data%20science.jpg)
+<!-- ![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/data%20science.jpg) -->
+![logo](https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif)
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
 
-<img align ="right" alt="Analysis" width =400 src="https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif" >
+<!-- <img align ="right" alt="Analysis" width =400 src="https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif" > -->
 
 ![](https://komarev.com/ghpvc/?username=MahmuudNabil&color=yellow&style=for-the-badge)
 
