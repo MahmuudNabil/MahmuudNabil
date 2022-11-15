@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
 
-<img align ="right" alt="Analysis" width =200 src="https://i.gifer.com/origin/43/43c3dc63d1ef6cfe1a7ae3ab5aa6a704_w200.gif" > 
+<!-- <img align ="right" alt="Analysis" width =200 src="https://i.gifer.com/origin/43/43c3dc63d1ef6cfe1a7ae3ab5aa6a704_w200.gif" > -->
 
-<!-- <img align ="right" alt="Analysis" width =400 src="https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif" > -->
+<img align ="right" alt="Analysis" width =400 src="https://reputationprotectiononline.com/wp-content/uploads/2019/08/ezgif.com-resize-8.gif" > 
 
 <!-- <img align ="right" alt="Analysis" width =200 src="https://i.gifer.com/origin/cb/cb420050f48db644677e020b8778b29d.gif" > -->
 
