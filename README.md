@@ -1,4 +1,4 @@
-![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/download.jfif)
+![logo](https://github.com/MahmuudNabil/MahmuudNabil/blob/main/data%20science.jpg)
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
 
