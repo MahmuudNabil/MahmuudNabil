@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmuud Nabil</h1>
 <h3 align="center">A passionate Data Analysis and BI from Egypt</h3>
 
+![](https://komarev.com/ghpvc/?username=MahmuudNabil&color=yellow&style=for-the-badge)
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/MahmuudNabil](https://github.com/MahmuudNabil)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmuudnabil/](https://www.linkedin.com/in/mahmuudnabil/)
