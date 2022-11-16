@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view?usp=sharing](https://drive.google.com/file/d/1jnbDQIzG0NKwZ_Ux68r-nk93yWBwNItY/view?usp=sharing)
 
-- ⚡ Fun fact ** Love football**
+- ⚡ Fun fact **Love football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
